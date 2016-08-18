@@ -16,11 +16,11 @@
 		Source: Quixol staff
 		Status: Deceased
 	Hooligans
-		Era: 2015 Protean(?)
-		Source: Protean staff
+		Era: 2014 Protean
+		Source: Skyler
 	I got died somehow
-		Era: ???
-		Source: ???
+		Era: 2015 Protean
+		Source: Skyler
 	Illegal Bread
 		Era: 2014 Protean
 		Source: Vivian (?)
