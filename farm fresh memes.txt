@@ -15,6 +15,9 @@
 		Era: 2016 Quixol
 		Source: Quixol staff
 		Status: Deceased
+	Hooligans
+		Era: 2015 Protean(?)
+		Source: Protean staff
 	I got died somehow
 		Era: ???
 		Source: ???
@@ -42,6 +45,9 @@
 	Slinkadink
 		Era: 2015 Quixol Beta
 		Source: Various Quixol members
+	Smellglobe
+		Era: 2015 Protean(?)
+		Source: Blake(?)
 	S T R A T E G Y
 		Era: 2015 Protean
 		Source: Skyler + various Protean staff
@@ -49,5 +55,5 @@
 		Era: early 2015 Protean
 		Source: Bean(?)
 	Yo skrill dorp it hard
-		Era: Proteancraft, year unknown
+		Era: Protean, year unknown
 		Source: ???
