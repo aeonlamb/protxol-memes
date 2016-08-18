@@ -2,6 +2,9 @@
 	BIGCLEATUS / cleetus
 		Era: 2015 Protean
 		Source: Various Protean members
+	Botato
+		Era: 2015 Quixol pre-beta
+		Source: Vivian
 	Fill-Ill
 		Era: 2015 Quixol beta
 		Source: Various Quixol members
