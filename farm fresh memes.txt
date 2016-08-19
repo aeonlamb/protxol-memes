@@ -8,6 +8,9 @@
 	Botato
 		Era: 2015 Quixol pre-beta
 		Source: Vivian
+	Bruce
+		Era: Early 2015 Proean
+		Source: Vivian
 	Fill-Ill
 		Era: 2015 Quixol beta
 		Source: Various Quixol members
@@ -15,6 +18,9 @@
 		Era: 2016 Quixol
 		Source: Quixol staff
 		Status: Deceased
+	Going 4 a ride lol
+		Era: 2015 Protean
+		Source: ???
 	Hooligans
 		Era: 2014 Protean
 		Source: Skyler
@@ -30,6 +36,9 @@
 	Loaf
 		Era: 2014 Protean
 		Source: Blake
+	Michael
+		Era: 2015 Protean
+		Source: Michael.
 	My name is bean and you can teleport to me
 		Era: 2015 Protean
 		Source: Bean.
@@ -39,9 +48,16 @@
 	Please read as about it too much. You're confused!
 		Era: 2016 Quixol
 		Source: Skyler / Quixol staff
+	PTA meeting
+		Era: 2015 Protean
+		Source: Various Protean members
+		Status: Deceased
 	Remy Buxaplenty / Baaxaplenty
 		Era: 2014 Protean / pre-protean
 		Source: Vivian / Blake
+	Secret Sheep
+		Era: 2014 Protean
+		Source: ???
 	Slinkadink
 		Era: 2015 Quixol Beta
 		Source: Various Quixol members
@@ -54,6 +70,12 @@
 	The fucking alph
 		Era: early 2015 Protean
 		Source: Bean(?)
-	Yo skrill dorp it hard
-		Era: Protean, year unknown
+	Yag mi
+		Era: 2014 Protean
 		Source: ???
+	Y'all right there Flahv
+		Era: 2015 Protean
+		Source: Various Protean members
+	Yo skrill dorp it hard
+		Era: 2015 Protean
+		Source: Blake
