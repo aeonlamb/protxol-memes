@@ -5,6 +5,9 @@ Protxol Meme Derivatives:
 	Chungo / "Removed Chungo"
 		Era: 2015 Quixol Beta
 		Source: Vivian
+	Corn Nuts
+		Era: 2016 Quixol(?)
+		Source: Franziska / Blake
 	Cucumber
 		Era: 2016 Quixol
 		Source: Blake(?)
