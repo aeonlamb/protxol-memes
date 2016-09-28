@@ -40,7 +40,7 @@
 		Era: 2015 Protean
 		Source: Michael.
 	My name is bean and you can teleport to me
-		Era: 2015 Protean
+		Era: 2014 Protean
 		Source: Bean.
 	Oh great, the void is raining
 		Era: 2015 Quixol pre-beta
