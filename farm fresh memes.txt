@@ -36,6 +36,9 @@
 	Loaf
 		Era: 2014 Protean
 		Source: Blake
+	Memer / même
+		Era: 2014 Protean, 2015 Quixol beta
+		Source: Vivian / Skyler
 	Michael
 		Era: 2015 Protean
 		Source: Michael.
